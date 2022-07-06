@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/responsive-profile-card-using-html-amd-css-cmr2UwbWG6)
 - Live Site URL: [Live site URL](https://profile-cardcomponent-frontendmentor.netlify.app/)
 
 ## My process
